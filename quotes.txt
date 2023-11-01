@@ -2,3 +2,4 @@ Coding like poetry should be short and concise. ― Santosh Kalwar
 Make it work, make it right, make it fast. – Kent Beck
 Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman
 Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth
+Clean code always looks like it was written by someone who cares. — Robert C. Martin
