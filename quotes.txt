@@ -1,1 +1,2 @@
 Coding like poetry should be short and concise. ― Santosh Kalwar
+Make it work, make it right, make it fast. – Kent Beck
